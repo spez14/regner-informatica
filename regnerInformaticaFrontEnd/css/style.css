@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 20px 0 10px 0;
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+}
+
+body {
+  background-color: #20b6fc;
+}
+
+.box, form {
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* #tituloPrincipalIndex {
+  margin: 40px 0 10px 0;
+  color: #fff;
+} */
+
+
+img {
+  width: 20%;
+  border: 1px solid black;
+}
+
+.imgAssistenciaTecnica {
+  width: 20%;
+  border: 1px solid black;
+}
+
+#imgMemoriaRam {
+  width: 12%;
+}
+
+input {
+  width: 250px;
+  height: 30px;
+  border-radius: 30px;
+  padding: 0 15px 0 15px;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #303030;
+  background-color: #87D9FF;
+  border: 1px solid black;
+}
+
+footer {
+  font-weight: bold;
+  color: #fff;
+}
